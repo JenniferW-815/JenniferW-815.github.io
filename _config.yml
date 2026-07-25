@@ -43,7 +43,6 @@ github_username: JenniferW-815
 
 # About Section
 # about_title: About Me
-about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi! I'm Jennifer, a student passionate about technology and web development. 
   This is my personal project page where I document my learning journey and showcase the projects I've built.
