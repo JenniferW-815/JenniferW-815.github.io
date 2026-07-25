@@ -68,6 +68,24 @@ content:
           基于 Jekyll + GitHub Pages 搭建的个人主页
         description: |
           这是我的个人项目主页，使用 modern-resume-theme 模板构建。页面包含 Hero、About、Skills、Projects 和 Contact 五个区块，支持响应式布局和暗色模式。通过这个项目学习了 Jekyll 静态站点生成、GitHub Pages 部署、Sass 样式编写等技能。
+  - title: Skills
+    layout: text
+    content: |
+      **Front-End**
+      - HTML5 / CSS3
+      - JavaScript (basic)
+      - Responsive Web Design
+
+      **Tools & Platforms**
+      - Git & GitHub
+      - VS Code
+      - Jekyll (Static Site Generator)
+
+      **Other**
+      - Python (basic)
+      - Team Collaboration
+      - Problem Solving
+
   - title: A Little More About Me
     layout: text
     content: |
