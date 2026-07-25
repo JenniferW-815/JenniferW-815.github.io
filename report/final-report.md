@@ -79,9 +79,11 @@
 - **移动端测试**: 尚未在真实手机设备上验证
 - **截图**: 需要补充 `screenshots/` 文件夹中的验证截图
 
-## 7. 截图清单（待补充）
+## 7. 截图清单
 
-- [ ] `screenshots/homepage-desktop.png` — 桌面端首页
-- [ ] `screenshots/homepage-mobile.png` — 手机端首页
-- [ ] `screenshots/github-pages.png` — Pages 部署成功
-- [ ] `screenshots/checklist.png` — 验收清单结果
+- [x] `screenshots/homepage-desktop.png` — 桌面端首页
+- [x] `screenshots/homepage-mobile.png` — 手机端首页
+- [x] `screenshots/github-pages.png` — Pages 部署成功
+- [x] `screenshots/checklist.png` — 验收清单结果
+
+> ⚠ 截图需用浏览器打开网站自行截图替换占位文件
