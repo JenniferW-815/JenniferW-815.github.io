@@ -122,5 +122,17 @@
         </p>
       {%- endif -%}
     </div>
+{%- if site.version == 2 -%}
+<nav class="container section-nav no-print">
+  <ul class="nav-list">
+    <li><a href="#about-me">About</a></li>
+    {% for section in site.content %}
+      <li><a href="#{{ section.title | slugify }}">{{ section.title }}</a></li>
+    {% endfor %}
+  </ul>
+</nav>
+{%- endif -%}
+
+
   </div>
 </div>
